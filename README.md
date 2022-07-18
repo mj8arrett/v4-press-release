@@ -22,7 +22,7 @@ This section imagines the product is ready to launch and describes:
 This section attempts to imagine the key questions that people would ask about the new product:
 
 - How can I try it out?
-- What are the technical requirements
+- What are the technical requirements?
 - etc.
 
 
