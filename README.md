@@ -1,11 +1,14 @@
 # v4-press-release
-Quite a few people are using v4 now in their projects, both new and upgraded.
+Quite a few people are using v4 now in both new projects and upgraded sites.  Some of these are even in production.
 
-We have a project that will go live by the end of the year so this is a good time to think about how we will launch v4 as a public release.
+We have a project that will go live by the end of the year, so this is a good time to think about how we will officially launch v4.
 
 This document is based on the approach that Amazon takes when launching a new product, see here:
 
-Link
+- https://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management-Please-Derect-Call-now-%F0%9D%9F%AD-%F0%9D%9F%B4%F0%9D%97%A2-%F0%9D%9F%B4-%F0%9D%9F%B0-%F0%9D%9F%B0-%F0%9D%9F%B0-%F0%9D%9F%B0-%F0%9D%9F%B3
+- https://www.inc.com/justin-bariso/amazon-uses-a-secret-process-for-launching-new-ideas-and-it-can-transform-way-you-work.html
+- https://www.productplan.com/glossary/working-backward-amazon-method/
+- https://www.amazon.co.uk/dp/B08GKYJVL1/
 
 They write a document that contains two sections:
 
@@ -13,16 +16,18 @@ They write a document that contains two sections:
 
 This section imagines the product is ready to launch and describes:
 
-- What the new product is
-- Outlines the key features
-- Who should use it
+- The product’s name
+- The intended customer
+- The problem the product solves
+- The benefits to the customer
+- A call to action
 
-## FAQs
+## FAQ
 
-This section attempts to imagine the key questions that people would ask about the new product:
+This section answers the business or tactical questions about building and using the product and imagines the key questions that people would ask:
 
-- How can I try it out?
 - What are the technical requirements?
+- How do I upgrade?
+- Who is using it?
 - etc.
-
 
