@@ -3,7 +3,7 @@ Quite a few people are using v4 now in both new projects and upgraded sites.  So
 
 We have a project that will go live by the end of the year, so this is a good time to think about how we will officially launch v4.
 
-This document is based on the approach that Amazon takes when launching a new product, see here:
+This document is based on the approach that Amazon takes when launching a new product; see here:
 
 - https://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management-Please-Derect-Call-now-%F0%9D%9F%AD-%F0%9D%9F%B4%F0%9D%97%A2-%F0%9D%9F%B4-%F0%9D%9F%B0-%F0%9D%9F%B0-%F0%9D%9F%B0-%F0%9D%9F%B0-%F0%9D%9F%B3
 - https://www.inc.com/justin-bariso/amazon-uses-a-secret-process-for-launching-new-ideas-and-it-can-transform-way-you-work.html
@@ -13,7 +13,6 @@ This document is based on the approach that Amazon takes when launching a new pr
 They write a document that contains two sections:
 
 ## Press release
-
 This section imagines the product is ready to launch and describes:
 
 - The product’s name
@@ -23,7 +22,6 @@ This section imagines the product is ready to launch and describes:
 - A call to action
 
 ## FAQ
-
 This section answers the business or tactical questions about building and using the product and imagines the key questions that people would ask:
 
 - What are the technical requirements?
@@ -31,3 +29,18 @@ This section answers the business or tactical questions about building and using
 - Who is using it?
 - etc.
 
+## How you can help
+The dCA team will write the press release section.
+
+Where we would like help is with the FAQ section.  What are the questions you would like to see answered?
+
+This will help us ensure two things:
+
+- Identify any issues that we need to resolve before launch.
+- Ensure we provide the best documentation for existing and new users.
+
+If you would like to contribute to the project, please drop me a note, and I will add you as a contributer.
+
+Please note, as part of this process, I am learning to use Git so please bear with me!
+
+Mike
