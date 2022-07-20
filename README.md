@@ -21,6 +21,8 @@ This section imagines the product is ready to launch and describes:
 - The benefits to the customer
 - A call to action
 
+See - https://github.com/mj8arrett/v4-press-release/blob/main/Press%20release%20section.md
+
 ## FAQ
 This section answers the business or tactical questions about building and using the product and imagines the key questions that people would ask:
 
@@ -28,6 +30,8 @@ This section answers the business or tactical questions about building and using
 - How do I upgrade?
 - Who is using it?
 - etc.
+
+See - https://github.com/mj8arrett/v4-press-release/blob/main/Q%2BA%20Section.md
 
 ## How you can help
 The dCA team will write the press release section.
