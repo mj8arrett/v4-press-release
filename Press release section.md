@@ -42,4 +42,4 @@ Wrap it up and give pointers on where the reader should go next.
 
 ## FAQ
 
-See separate document
+See separate document - https://github.com/mj8arrett/v4-press-release/blob/main/Q%2BA%20Section.md
