@@ -45,7 +45,7 @@ This will help us ensure two things:
 - Identify any issues that we need to resolve before launch.
 - Ensure we provide the best documentation for existing and new users.
 
-If you would like to contribute to the project, please drop me a note, and I will add you as a contributor.
+If you would like to contribute to the project, please drop me a note, and I will add you as a collaborator.
 
 Please note, as part of this process, I am learning to use git, so please bear with me!
 
