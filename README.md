@@ -47,6 +47,6 @@ This will help us ensure two things:
 
 If you would like to contribute to the project, please drop me a note, and I will add you as a contributor.
 
-Please note, as part of this process, I am learning to use git so please bear with me!
+Please note, as part of this process, I am learning to use git, so please bear with me!
 
 Mike
